@@ -1,5 +1,4 @@
 package com.pinkly;
-// ini adalah library untuk pembuatan input
 import java.util.Scanner;
 // ini adalah class menu class yang akan diwariskan kedalam tiga class di bawah
 class Menu {
@@ -347,8 +346,6 @@ public class Kasir {
         }
     }
     public static void main(String[] args) {
-        // coment line disini hanya menjelaskan tentang kondisi bagaimana cara program berjalan
-        // tidak menjelaskan bagaimana cara (tipe data atau variabel) untuk melakukan perhitungan
         // semua program dimulai dari sini
         System.out.println("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
         System.out.println("x   - - - -  PROGRAM BY -> PINKLY  - - - -   x");
